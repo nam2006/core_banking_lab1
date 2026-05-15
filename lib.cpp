@@ -1,3 +1,4 @@
-int calculate(int a) {
-    return a * 10;
+
+double calculate(double a, double b) {
+    return a + b;
 }
